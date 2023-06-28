@@ -4,7 +4,7 @@ This is a web based application developed for health related website in India.
 
 ### This web based application has been developed for the applications of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Quess ,Github and Ey.
 
-** Project Link**-
+** Project Link**-https://happy-glacier-0cce55b00.3.azurestaticapps.net
 ** Project demo video link**-
 
 ## Azure technologies used for Project 
